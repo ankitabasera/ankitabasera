@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Basera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitabasera" alt="ankitabasera" /> </p>
 
